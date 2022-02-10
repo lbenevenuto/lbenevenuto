@@ -22,8 +22,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div>
-<br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
   <img align="center" alt="Luiz-Perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-plain.svg">
   <img align="center" alt="Luiz-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
