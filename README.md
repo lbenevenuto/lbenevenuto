@@ -23,16 +23,17 @@ Here are some ideas to get you started:
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
-  <img align="center" alt="Luiz-Perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-plain.svg">
-  <img align="center" alt="Luiz-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Luiz-VueJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
-  <img align="center" alt="Luiz-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Luiz-googlecloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain.svg">
-  <img align="center" alt="Luiz-amazonwebservices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Luiz-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Luiz-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Luiz-redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
-  <img align="center" alt="Luiz-phpstorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg">
-  <img align="center" alt="Luiz-quasar" height="30" width="30" src="https://avatars.githubusercontent.com/u/23064371">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-plain.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="googlecloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain.svg">
+  <img align="center" alt="amazonwebservices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+  <img align="center" alt="phpstorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg">
+  <img align="center" alt="quasar" height="30" width="30" src="https://avatars.githubusercontent.com/u/23064371">
 </div>
