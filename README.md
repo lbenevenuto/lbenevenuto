@@ -35,10 +35,10 @@ Here are some ideas to get you started:
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=7&theme=transparent"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github.com/lbenevenuto" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10" />
   </picture>
 
 </div>
