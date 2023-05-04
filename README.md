@@ -45,17 +45,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<style>
-    .icons span {
-        border-right: 1px solid #666;
-        display: inline-block;
-        padding-right: 5px;
-    }
-</style>
-
-<div align="center" class="icons">
+<div align="center">
     <img alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <span>
+    <span style="border-right: 1px solid #555;display: inline-block;padding-right: 5px;">
         <img alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
     </span>
     <img alt="perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
@@ -65,7 +57,7 @@ Here are some ideas to get you started:
     <img alt="rubymine" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg'>
     <img alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <span>
+    <span style="border-right: 1px solid #555;display: inline-block;padding-right: 5px;">
         <img alt="adonisjs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg'>
     </span>
     <img alt="googlecloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain.svg">
