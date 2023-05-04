@@ -30,8 +30,22 @@ Here are some ideas to get you started:
       srcset="https://github-readme-stats.vercel.app/api?username=lbenevenuto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img src="https://github.com/lbenevenuto" />
   </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=7&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=7&theme=transparent"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github.com/lbenevenuto" />
+  </picture>
+
+
 </div>
 
 <div style="display: inline_block" align="center">
