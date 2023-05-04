@@ -35,29 +35,32 @@ Here are some ideas to get you started:
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10&theme=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10&theme=transparent" />
   </picture>
 
 </div>
 
-<div style="display: inline_block" align="center">
-<br>
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="rubymine" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rubymine/rubymine-plain.svg">
-  <img align="center" alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="googlecloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain.svg">
-  <img align="center" alt="amazonwebservices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
-  <img align="center" alt="phpstorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg">
-  <img align="center" alt="quasar" height="30" width="30" src="https://avatars.githubusercontent.com/u/23064371">
+<br/>
+
+<div align="center">
+    <img alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+    |
+    <img alt="perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
+    <img alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img alt="phpstorm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-plain.svg">
+    <img alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+    <img alt="rubymine" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg'>
+    <img alt="vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img alt="adonisjs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg'>
+    |
+    <img alt="googlecloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-plain.svg">
+    <img alt="amazonwebservices" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+    <img alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+    <img alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <img alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 </div>
