@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <img alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <span style="border-right: 1px solid #555;display: inline-block;padding-right: 5px;">
+    <span style="border-right: 1px solid #fff;display: inline-block;padding-right: 5px;">
         <img alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
     </span>
     <img alt="perl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
