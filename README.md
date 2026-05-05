@@ -54,9 +54,15 @@
 </p>
 
 <p align="center">
-  <strong>AI Assistants</strong><br>
+  <strong>AI Ecosystem & Assistants</strong><br>
   <a href="https://opencode.ai/">
     <img src="https://img.shields.io/badge/OpenCode.ai-The_AI_Software_Engineer-3178C6?style=for-the-badge&logo=openai&logoColor=white" alt="OpenCode" />
+  </a>
+  <a href="https://opencode.ai/go">
+    <img src="https://img.shields.io/badge/OpenCode_Go-Golang_Agent-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="OpenCode Go" />
+  </a>
+  <a href="https://ohmyopenagent.com/">
+    <img src="https://img.shields.io/badge/Oh_My_OpenAgent-Agents_Framework-FF6B6B?style=for-the-badge&logo=probot&logoColor=white" alt="Oh My OpenAgent" />
   </a>
   <br>
   <br>
