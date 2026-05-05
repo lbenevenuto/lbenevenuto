@@ -61,23 +61,40 @@
       <br />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
       <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
+      <img src="https://img.shields.io/badge/Hono-E36022?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
     </td>
     <td valign="top" width="50%">
       <h4>Frontend</h4>
       <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar" />
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>Databases</h4>
+      <h4>Databases & Big Data</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+      <br />
+      <img src="https://img.shields.io/badge/AWS_Athena-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Athena" />
     </td>
     <td valign="top" width="50%">
-      <h4>Infrastructure & OS</h4>
+      <h4>Cloud & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+      <br />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>AI & Future Tech</h4>
+      <img src="https://img.shields.io/badge/AI_&_LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+    </td>
+    <td valign="top" width="50%">
+      <!-- Empty or for future use -->
     </td>
   </tr>
 </table>
