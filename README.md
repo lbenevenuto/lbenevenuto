@@ -55,11 +55,15 @@
 
 <p align="center">
   <strong>AI Assistants</strong><br>
+  <a href="https://opencode.ai/">
+    <img src="https://img.shields.io/badge/OpenCode.ai-The_AI_Software_Engineer-3178C6?style=for-the-badge&logo=openai&logoColor=white" alt="OpenCode" />
+  </a>
+  <br>
+  <br>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=github&logoColor=white" alt="OpenCode" />
 </p>
 
 <br/>
@@ -74,20 +78,22 @@
 
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=lbenevenuto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lbenevenuto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" height="165" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=lbenevenuto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lbenevenuto&show_icons=true&include_all_commits=true&count_private=true" height="165" />
   </picture>
   &nbsp;
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=lbenevenuto&theme=dracula&hide_border=true&background=00000000" media="(prefers-color-scheme: dark)" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lbenevenuto&theme=transparent&hide_border=true&background=00000000" height="165" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=lbenevenuto&theme=github-dark" media="(prefers-color-scheme: dark)" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lbenevenuto" height="165" />
   </picture>
 </div>
 
+<br/>
+
 <div align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10&theme=transparent&hide_border=true&bg_color=00000000" height="165" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbenevenuto&layout=compact&langs_count=10" height="165" />
   </picture>
 </div>
 
