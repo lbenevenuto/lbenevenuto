@@ -3,7 +3,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/luizbenevenuto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:luiz.benevenuto@spirii.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://luiz.dk"><img alt="luiz.dk" src="https://img.shields.io/badge/luiz.dk-3178C6?style=for-the-badge&logo=svelte&logoColor=white"></a>
   </p>
 </div>
 
@@ -12,6 +12,18 @@
 I am a senior software engineer with more than 25 years of experience building, modernizing, and maintaining software systems. My work is centered on backend engineering, distributed systems, cloud infrastructure, and developer productivity, with a strong focus on pragmatic architecture and clean, maintainable code.
 
 I currently work in the EV charging domain, where reliability, clear system boundaries, and operational discipline matter. I enjoy solving complex product and engineering problems, mentoring teams, and turning ambiguous requirements into stable production systems.
+
+## Featured Project
+
+**[luiz.dk](https://luiz.dk)** — personal URL shortener and serverless playground. [Source](https://github.com/lbenevenuto/luiz-dk-sveltekit)
+
+<p>
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="SvelteKit" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/D1_%2B_KV-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="D1 + KV" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" alt="Clerk" />
+</p>
 
 ## Engineering Focus
 
